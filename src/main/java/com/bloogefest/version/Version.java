@@ -13,9 +13,6 @@ import com.bloogefest.common.validation.NullException;
 /**
  * Этот интерфейс содержит методы, применимые к любому формату версий.
  *
- * @see #newer(Version)
- * @see #same(Version)
- * @see #older(Version)
  * @since 1.0.0-RC1
  */
 public interface Version {
